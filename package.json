@@ -1,0 +1,15 @@
+{
+  "description": "",
+  "homepage": "https://github.com/codeudan/datatea.git#readme",
+  "license": "MIT",
+  "main": "datatea.js",
+  "name": "datatea",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeudan/datatea.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.3.1"
+}
